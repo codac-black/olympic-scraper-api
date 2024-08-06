@@ -17,7 +17,7 @@ A Flask-based API for scraping and managing Olympic medal data. This API scrapes
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/olympic-scraper-api.git
+   git clone https://github.com/codac-black/olympic-scraper-api.git
    cd olympic-scraper-api
 
 2. **Create and activate a virtual environment:**
